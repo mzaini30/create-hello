@@ -1,0 +1,20 @@
+{
+  "name": "create-hello",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://mzaini30:kuc1n9d0r43m0n@github.com/mzaini30/create-hello.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mzaini30/create-hello/issues"
+  },
+  "homepage": "https://github.com/mzaini30/create-hello#readme"
+}
